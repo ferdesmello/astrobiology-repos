@@ -1,6 +1,6 @@
 # Astrobiology repos
 
-A list of my repositores in astrobiology.
+A list of my repositories in astrobiology.
 
 ## [Habitable dot](https://github.com/ferdesmello/habitable-dot)
 
